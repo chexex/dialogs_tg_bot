@@ -1,0 +1,6 @@
+sftp-config.json
+*.pyc
+*.yaml
+ssl/*
+.idea
+venv/
